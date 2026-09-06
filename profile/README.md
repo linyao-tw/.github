@@ -8,7 +8,7 @@
 
 ---
 
-麟曜數位工作室是一間以設計與技術為核心的獨立開源數位工作室。
+麟曜數位工作室是一間以設計與技術為核心的獨立開源數位工作室。由 [毛哥EM](https://github.com/elvisdragonmao) 創立。
 
 We design and build open-source products, custom websites, systems, and creative experiences — combining design, code, and motion to turn ideas into things people can see, use, and experience.
 
