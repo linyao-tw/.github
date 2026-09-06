@@ -1,6 +1,6 @@
 <div align=center>
 
-# LINYAO DIGITAL STUDIO
+# Linyao Digital Studio
 
 **DESIGN × CODE × MOTION**
 
